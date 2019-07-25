@@ -101,4 +101,5 @@ SET( STIR_TEST_DIRS
      test 
      test/numerics
      test/modelling
+     ${STIR_gpu_test}
 )
