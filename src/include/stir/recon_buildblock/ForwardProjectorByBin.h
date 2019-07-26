@@ -153,7 +153,6 @@ protected:
   //! The density ptr set with set_up()
   shared_ptr<DiscretisedDensity<3,float> > _density_sptr;
 
-private:
   shared_ptr<ProjDataInfo> _proj_data_info_sptr;
 };
 
